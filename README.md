@@ -1,5 +1,6 @@
 # LamanTrip-coldTemp-2022
-Codes and raw data used in Laman Trip et al. bioRxiv (2022)
+Laman Trip et al., <em>Nature Communications</em> (2022)  <br />
+Codes and raw data
 
 1. Raw data for Figs. 1-6: 
 There's a separate Excel file for each figure.
